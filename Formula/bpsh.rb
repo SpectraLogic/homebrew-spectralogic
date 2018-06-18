@@ -1,8 +1,8 @@
 class Bpsh < Formula
   desc "DS3 Script shell for interfacing with the Spectra Logic BlackPearl"
   homepage "https://github.com/SpectraLogic/ds3_script"
-  url "https://github.com/SpectraLogic/ds3_script/releases/download/v3.5.0/bpsh-3.5.0.tar"
-  sha256 "551d56e1f2d3359a99c736a7721a8e26b4781a8b117b61cb5f487b43781bfeca"
+  url "https://github.com/SpectraLogic/ds3_script/releases/download/v3.5.1/bpsh-3.5.1.zip"
+  sha256 "5d872bba09dcdabed1f2947b91ee949abe4474a39efb21442ddf7917124e5cdb"
 
   bottle :unneeded
 
